@@ -1,0 +1,8 @@
+2011-04-12 10:55:17 Warning: Warning (512): /home/lestat/public_html/lxp/app/tmp/cache/ is not writable in [/home/lestat/public_html/lxp/cake/libs/cache/file.php, line 267]
+2011-04-12 10:55:17 Warning: Warning (512): /persistent/ is not writable in [/home/lestat/public_html/lxp/cake/libs/cache/file.php, line 267]
+2011-04-12 10:55:17 Warning: Warning (512): /models/ is not writable in [/home/lestat/public_html/lxp/cake/libs/cache/file.php, line 267]
+2011-04-12 10:55:46 Warning: Warning (512): /home/lestat/public_html/lxp/app/tmp/cache/persistent/ is not writable in [/home/lestat/public_html/lxp/cake/libs/cache/file.php, line 267]
+2011-04-12 10:55:46 Warning: Warning (512): /home/lestat/public_html/lxp/app/tmp/cache/models/ is not writable in [/home/lestat/public_html/lxp/cake/libs/cache/file.php, line 267]
+2011-04-12 17:36:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /home/lestat/public_html/lxp/cake/libs/debugger.php:673) in [/home/lestat/public_html/lxp/cake/libs/controller/controller.php, line 742]
+2011-04-13 11:06:24 Warning: Warning (2): fopen(/Users/lestat/Sites/lxp/app/tmp/cache/persistent/cake_core_default_it__i_t) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [/Users/lestat/Sites/lxp/cake/libs/file.php, line 152]
+2011-04-13 11:06:27 Warning: Warning (2): fopen(/Users/lestat/Sites/lxp/app/tmp/cache/persistent/cake_core_default_it__i_t) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [/Users/lestat/Sites/lxp/cake/libs/file.php, line 152]

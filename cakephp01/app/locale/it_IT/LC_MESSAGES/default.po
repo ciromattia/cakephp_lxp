@@ -1,0 +1,159 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CakePHP Tutorial\n"
+"POT-Creation-Date: 2011-04-13 10:31+0200\n"
+"PO-Revision-Date: 2011-04-13 11:18+0100\n"
+"Last-Translator: Ciro Mattia Gonano <ciro@winged.it>\n"
+"Language-Team: LXP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+
+#: /controllers/movies_controller.php:19;47;19;47
+msgid "The movie has been saved"
+msgstr "Il film è stato salvato"
+
+#: /controllers/movies_controller.php:22;50;22;50
+msgid "The movie could not be saved. Please, try again."
+msgstr "Non è stato possibile salvare il film. Riprovare, prego."
+
+#: /controllers/movies_controller.php:29;29
+msgid "Invalid id for movie"
+msgstr "Id del film non valido"
+
+#: /controllers/movies_controller.php:33;33
+msgid "Movie deleted"
+msgstr "Film cancellato"
+
+#: /controllers/movies_controller.php:35;35
+msgid "Movie was not deleted"
+msgstr "Il film non è stato cancellato"
+
+#: /controllers/movies_controller.php:42;60;42;60
+msgid "Invalid movie"
+msgstr "Film non valido"
+
+#: /views/movies/add.ctp:3;3
+#: /views/movies/edit.ctp:2;2
+#: /views/movies/view.ctp:2;2
+msgid "Movie"
+msgstr "Film"
+
+#: /views/movies/add.ctp:4;4
+msgid "title"
+msgstr "titolo"
+
+#: /views/movies/add.ctp:4;4
+msgid "genre"
+msgstr "genere"
+
+#: /views/movies/add.ctp:4;4
+msgid "rating"
+msgstr "valutazione"
+
+#: /views/movies/add.ctp:4;4
+msgid "format"
+msgstr "formato"
+
+#: /views/movies/add.ctp:4;4
+msgid "length"
+msgstr "lunghezza"
+
+#: /views/movies/add.ctp:5;5
+msgid "Add"
+msgstr "Aggiungi"
+
+#: /views/movies/add.ctp:9;9
+#: /views/movies/edit.ctp:7;7
+#: /views/movies/index.ctp:10;30;10;30
+#: /views/movies/view.ctp:21;21
+msgid "Actions"
+msgstr "Azioni"
+
+#: /views/movies/add.ctp:11;11
+#: /views/movies/edit.ctp:9;9
+#: /views/movies/view.ctp:26;26
+msgid "List Movies"
+msgstr "Elenco film"
+
+#: /views/movies/edit.ctp:4;4
+#: /views/movies/index.ctp:21;21
+msgid "Edit"
+msgstr "Modifica"
+
+#: /views/movies/index.ctp:2;2
+msgid "Movies"
+msgstr "Film"
+
+#: /views/movies/index.ctp:5;5
+#: /views/movies/view.ctp:4;4
+msgid "Title"
+msgstr "Titolo"
+
+#: /views/movies/index.ctp:6;6
+#: /views/movies/view.ctp:6;6
+msgid "Genre"
+msgstr "Genere"
+
+#: /views/movies/index.ctp:7;7
+#: /views/movies/view.ctp:8;8
+msgid "Rating"
+msgstr "Valutazione"
+
+#: /views/movies/index.ctp:8;8
+#: /views/movies/view.ctp:10;10
+msgid "Format"
+msgstr "Formato"
+
+#: /views/movies/index.ctp:9;9
+#: /views/movies/view.ctp:12;12
+msgid "Length"
+msgstr "Lunghezza"
+
+#: /views/movies/index.ctp:20;20
+msgid "View"
+msgstr "Vedi"
+
+#: /views/movies/index.ctp:22;22
+msgid "Delete"
+msgstr "Elimina"
+
+#: /views/movies/index.ctp:23;23
+msgid "Are you sure you want to delete %s?"
+msgstr "Sei sicuro di voler eliminare %s?"
+
+#: /views/movies/index.ctp:32;32
+#: /views/movies/view.ctp:27;27
+msgid "New Movie"
+msgstr "Nuovo film"
+
+#: /views/movies/view.ctp:14;14
+msgid "Created"
+msgstr "Creato"
+
+#: /views/movies/view.ctp:16;16
+msgid "Modified"
+msgstr "Modificato"
+
+#: /views/movies/view.ctp:23;23
+msgid "Edit Movie"
+msgstr "Modifica film"
+
+#: /views/movies/view.ctp:24;24
+msgid "Delete Movie"
+msgstr "Elimina film"
+
+#: /views/movies/view.ctp:25;25
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sei sicuro di voler eliminare # %s?"
+
+#: /webroot/test.php:88;88
+msgid "Debug setting does not allow access to this url."
+msgstr "Le impostazioni di debug non permettono l'accesso a questo indirizzo."
+
