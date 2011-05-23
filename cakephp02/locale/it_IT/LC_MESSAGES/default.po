@@ -1,0 +1,285 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Ciro Mattia Gonano <ciro@winged.it>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-05-23 15:42+0200\n"
+"PO-Revision-Date: 2011-05-23 16:03+0200\n"
+"Last-Translator: Ciro Mattia Gonano <ciro@winged.it>\n"
+"Language-Team: Italiano <ciro@winged.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: .\n"
+"Plural-Forms: .\n"
+
+#: /controllers/books_controller.php:13;35
+msgid "Invalid book"
+msgstr "Libro non valido"
+
+#: /controllers/books_controller.php:23;40
+msgid "The book has been saved"
+msgstr "Il libro è stato salvato"
+
+#: /controllers/books_controller.php:26;43
+msgid "The book could not be saved. Please, try again."
+msgstr "Impossibile salvare il libro. Per favore, prova di nuovo."
+
+#: /controllers/books_controller.php:55
+msgid "Invalid id for book"
+msgstr "Id del libro non valido"
+
+#: /controllers/books_controller.php:59
+msgid "Book deleted"
+msgstr "Libro eliminato"
+
+#: /controllers/books_controller.php:62
+msgid "Book was not deleted"
+msgstr "Il libro non è stato eliminato"
+
+#: /controllers/users_controller.php:13;33
+msgid "Invalid user"
+msgstr "Utente non valido"
+
+#: /controllers/users_controller.php:23;38
+msgid "The user has been saved"
+msgstr "L'utente è stato salvato"
+
+#: /controllers/users_controller.php:26;41
+msgid "The user could not be saved. Please, try again."
+msgstr "Impossibile salvare l'utente. Per favore, prova di nuovo."
+
+#: /controllers/users_controller.php:51
+msgid "Invalid id for user"
+msgstr "Id dell'utente non valido"
+
+#: /controllers/users_controller.php:55
+msgid "User deleted"
+msgstr "Utente eliminato"
+
+#: /controllers/users_controller.php:58
+msgid "User was not deleted"
+msgstr "L'utente non è stato eliminato"
+
+#: /views/books/add.ctp:4
+msgid "Add Book"
+msgstr "Aggiungi libro"
+
+#: /views/books/add.ctp:14 /views/books/edit.ctp:15 /views/users/add.ctp:9
+#: /views/users/edit.ctp:10
+msgid "Submit"
+msgstr "Invia"
+
+#: /views/books/add.ctp:17 /views/books/edit.ctp:18
+#: /views/books/index.ctp:14;59 /views/books/view.ctp:52
+#: /views/users/add.ctp:12 /views/users/edit.ctp:13
+#: /views/users/index.ctp:9;47 /views/users/view.ctp:27;51
+msgid "Actions"
+msgstr "Azioni"
+
+#: /views/books/add.ctp:20 /views/books/edit.ctp:22 /views/books/view.ctp:56
+#: /views/users/add.ctp:16 /views/users/edit.ctp:18 /views/users/index.ctp:50
+#: /views/users/view.ctp:33
+msgid "List Books"
+msgstr "Elenco libri"
+
+#: /views/books/add.ctp:21 /views/books/edit.ctp:23 /views/books/index.ctp:62
+#: /views/books/view.ctp:58 /views/users/add.ctp:15 /views/users/edit.ctp:17
+#: /views/users/view.ctp:31
+msgid "List Users"
+msgstr "Elenco utenti"
+
+#: /views/books/add.ctp:22 /views/books/edit.ctp:24 /views/books/index.ctp:63
+#: /views/books/view.ctp:59 /views/users/index.ctp:49 /views/users/view.ctp:32
+msgid "New User"
+msgstr "Nuovo utente"
+
+#: /views/books/edit.ctp:4 /views/books/view.ctp:54
+msgid "Edit Book"
+msgstr "Modifica libro"
+
+#: /views/books/edit.ctp:21 /views/books/index.ctp:39 /views/users/edit.ctp:16
+#: /views/users/index.ctp:27 /views/users/view.ctp:74
+msgid "Delete"
+msgstr "Elimina"
+
+#: /views/books/edit.ctp:21 /views/books/index.ctp:39 /views/books/view.ctp:55
+#: /views/users/edit.ctp:16 /views/users/index.ctp:27
+#: /views/users/view.ctp:30;74
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sei sicuro di voler eliminare # %s?"
+
+#: /views/books/index.ctp:2
+msgid "Books"
+msgstr "Libri"
+
+#: /views/books/index.ctp:37 /views/users/index.ctp:25
+#: /views/users/view.ctp:72
+msgid "View"
+msgstr "Vedi"
+
+#: /views/books/index.ctp:38 /views/users/index.ctp:26
+#: /views/users/view.ctp:73
+msgid "Edit"
+msgstr "Modifica"
+
+#: /views/books/index.ctp:47 /views/users/index.ctp:35
+msgid ""
+"Page %page% of %pages%, showing %current% records out of %count% total, "
+"starting on record %start%, ending on %end%"
+msgstr ""
+"Pagina %page% di %pages%, mostrati %current% record su %count% totali, "
+"record iniziale %start%, finale %end%"
+
+#: /views/books/index.ctp:52 /views/users/index.ctp:40
+msgid "previous"
+msgstr "precedente"
+
+#: /views/books/index.ctp:55 /views/users/index.ctp:43
+msgid "next"
+msgstr "successivo"
+
+#: /views/books/index.ctp:61 /views/books/view.ctp:57 /views/users/add.ctp:17
+#: /views/users/edit.ctp:19 /views/users/index.ctp:51
+#: /views/users/view.ctp:34;83
+msgid "New Book"
+msgstr "Nuovo libro"
+
+#: /views/books/view.ctp:2
+msgid "Book"
+msgstr "Libro"
+
+#: /views/books/view.ctp:4 /views/users/view.ctp:4;42
+msgid "Id"
+msgstr "Id"
+
+#: /views/books/view.ctp:9 /views/users/view.ctp:2
+msgid "User"
+msgstr "Utente"
+
+#: /views/books/view.ctp:14 /views/users/view.ctp:44
+msgid "Title"
+msgstr "Titolo"
+
+#: /views/books/view.ctp:19 /views/users/view.ctp:45
+msgid "Slug"
+msgstr "Riferimento"
+
+#: /views/books/view.ctp:24 /views/users/view.ctp:46
+msgid "Author"
+msgstr "Authore"
+
+#: /views/books/view.ctp:29 /views/users/view.ctp:47
+msgid "Summary"
+msgstr "Riassunto"
+
+#: /views/books/view.ctp:34 /views/users/view.ctp:48
+msgid "Purchased"
+msgstr "Comprato"
+
+#: /views/books/view.ctp:39 /views/users/view.ctp:14;49
+msgid "Created"
+msgstr "Creato"
+
+#: /views/books/view.ctp:44 /views/users/view.ctp:19;50
+msgid "Modified"
+msgstr "Modificato"
+
+#: /views/books/view.ctp:55
+msgid "Delete Book"
+msgstr "Elimina libro"
+
+#: /views/layouts/default.ctp:25
+msgid "CakePHP: the rapid development php framework:"
+msgstr "CakePHP: il framework PHP di sviluppo rapido:"
+
+#: /views/layouts/default.ctp:39;50
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: il framework PHP di sviluppo rapido"
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr "La directory tmp è scrivibile"
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr "La directory tmp NON è scrivibile."
+
+#: /views/pages/home.ctp:26
+msgid ""
+"The %s is being used for caching. To change the config edit APP/config/core."
+"php "
+msgstr "%s viene usato per il caching. Per modificare la configurazione"
+
+#: /views/pages/home.ctp:30
+msgid ""
+"Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr "La cache NON è attiva. Per favore, controlla le impostazioni in"
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr "Il file di configurazione del database esiste."
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr "Il file di configurazione del database NON esiste."
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr "Rinomina config/database.php.default in config/database.php"
+
+#: /views/pages/home.ctp:64
+msgid "Cake is able to connect to the database."
+msgstr "Cake è riuscito a connettersi al database."
+
+#: /views/pages/home.ctp:68
+msgid "Cake is NOT able to connect to the database."
+msgstr "Cake NON è riuscito a connettersi al database."
+
+#: /views/pages/home.ctp:74
+msgid "Editing this Page"
+msgstr "Modifica della pagina"
+
+#: /views/pages/home.ctp:77
+msgid ""
+"To change the content of this page, edit: %s\n"
+"\t\tTo change its layout, edit: %s\n"
+"\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+"Per modificare il contenuto di questa pagina, modifica: %s\n"
+"\t\tPer modificarne il layout, modifica: %s\n"
+"\t\tPuoi anche aggiungere stili CSS per le pagine in: %s"
+
+#: /views/users/add.ctp:4
+msgid "Add User"
+msgstr "Aggiungi utente"
+
+#: /views/users/edit.ctp:4 /views/users/view.ctp:29
+msgid "Edit User"
+msgstr "Modifica utente"
+
+#: /views/users/index.ctp:2
+msgid "Users"
+msgstr "Utenti"
+
+#: /views/users/view.ctp:9
+msgid "Name"
+msgstr "Nome"
+
+#: /views/users/view.ctp:30
+msgid "Delete User"
+msgstr "Elimina utente"
+
+#: /views/users/view.ctp:38
+msgid "Related Books"
+msgstr "Libri collegati"
+
+#: /views/users/view.ctp:43
+msgid "User Id"
+msgstr "Id utente"
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+"Le impostazioni di debug non permettono di accedere a questo indirizzo."
