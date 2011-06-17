@@ -1,0 +1,342 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-06-17 17:01+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /controllers/uploads_controller.php:21;35;104
+msgid "Invalid upload"
+msgstr ""
+
+#: /controllers/uploads_controller.php:45;109
+msgid "The upload has been saved"
+msgstr ""
+
+#: /controllers/uploads_controller.php:48;112
+msgid "The upload could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/uploads_controller.php:74;88;125
+msgid "Invalid id for upload"
+msgstr ""
+
+#: /controllers/uploads_controller.php:129
+msgid "Upload deleted"
+msgstr ""
+
+#: /controllers/uploads_controller.php:132
+msgid "Upload was not deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:13;35
+msgid "Invalid user"
+msgstr ""
+
+#: /controllers/users_controller.php:23;40
+msgid "The user has been saved"
+msgstr ""
+
+#: /controllers/users_controller.php:26;43
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/users_controller.php:55
+msgid "Invalid id for user"
+msgstr ""
+
+#: /controllers/users_controller.php:59
+msgid "User deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:62
+msgid "User was not deleted"
+msgstr ""
+
+#: /views/layouts/default.ctp:25
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: /views/layouts/default.ctp:39;50
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: /views/pages/home.ctp:26
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr ""
+
+#: /views/pages/home.ctp:30
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr ""
+
+#: /views/pages/home.ctp:64
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:68
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: /views/pages/home.ctp:74
+msgid "Editing this Page"
+msgstr ""
+
+#: /views/pages/home.ctp:77
+msgid "To change the content of this page, edit: %s\n\t\tTo change its layout, edit: %s\n\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: /views/uploads/add.ctp:4
+msgid "Add Upload"
+msgstr ""
+
+#: /views/uploads/add.ctp:12
+#: /views/uploads/edit.ctp:16
+#: /views/users/add.ctp:11
+#: /views/users/edit.ctp:12
+#: /views/users/login.ctp:10
+msgid "Submit"
+msgstr ""
+
+#: /views/uploads/add.ctp:15
+#: /views/uploads/edit.ctp:19
+#: /views/uploads/index.ctp:14;59
+#: /views/uploads/view.ctp:59;80
+#: /views/users/add.ctp:14
+#: /views/users/edit.ctp:15
+#: /views/users/index.ctp:11;51
+#: /views/users/view.ctp:37;61
+msgid "Actions"
+msgstr ""
+
+#: /views/uploads/add.ctp:18
+#: /views/uploads/edit.ctp:23
+#: /views/uploads/view.ctp:63
+#: /views/users/add.ctp:18
+#: /views/users/edit.ctp:20
+#: /views/users/index.ctp:54
+#: /views/users/view.ctp:43
+msgid "List Uploads"
+msgstr ""
+
+#: /views/uploads/add.ctp:19
+#: /views/uploads/edit.ctp:24
+#: /views/uploads/index.ctp:62
+#: /views/uploads/view.ctp:65
+#: /views/users/add.ctp:17
+#: /views/users/edit.ctp:19
+#: /views/users/view.ctp:41
+msgid "List Users"
+msgstr ""
+
+#: /views/uploads/add.ctp:20
+#: /views/uploads/edit.ctp:25
+#: /views/uploads/index.ctp:63
+#: /views/uploads/view.ctp:66;109
+#: /views/users/index.ctp:53
+#: /views/users/view.ctp:42
+msgid "New User"
+msgstr ""
+
+#: /views/uploads/edit.ctp:4
+#: /views/uploads/view.ctp:61
+msgid "Edit Upload"
+msgstr ""
+
+#: /views/uploads/edit.ctp:22
+#: /views/uploads/index.ctp:39
+#: /views/uploads/view.ctp:100
+#: /views/users/edit.ctp:18
+#: /views/users/index.ctp:31
+#: /views/users/view.ctp:84
+msgid "Delete"
+msgstr ""
+
+#: /views/uploads/edit.ctp:22
+#: /views/uploads/index.ctp:39
+#: /views/uploads/view.ctp:62;100
+#: /views/users/edit.ctp:18
+#: /views/users/index.ctp:31
+#: /views/users/view.ctp:40;84
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/uploads/index.ctp:2
+msgid "Uploads"
+msgstr ""
+
+#: /views/uploads/index.ctp:37
+#: /views/uploads/view.ctp:98
+#: /views/users/index.ctp:29
+#: /views/users/view.ctp:82
+msgid "View"
+msgstr ""
+
+#: /views/uploads/index.ctp:38
+#: /views/uploads/view.ctp:99
+#: /views/users/index.ctp:30
+#: /views/users/view.ctp:83
+msgid "Edit"
+msgstr ""
+
+#: /views/uploads/index.ctp:47
+#: /views/users/index.ctp:39
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/uploads/index.ctp:52
+#: /views/users/index.ctp:44
+msgid "previous"
+msgstr ""
+
+#: /views/uploads/index.ctp:55
+#: /views/users/index.ctp:47
+msgid "next"
+msgstr ""
+
+#: /views/uploads/index.ctp:61
+#: /views/uploads/view.ctp:64
+#: /views/users/add.ctp:19
+#: /views/users/edit.ctp:21
+#: /views/users/index.ctp:55
+#: /views/users/view.ctp:44;93
+msgid "New Upload"
+msgstr ""
+
+#: /views/uploads/view.ctp:2
+msgid "Upload"
+msgstr ""
+
+#: /views/uploads/view.ctp:4;74
+#: /views/users/view.ctp:4;52
+msgid "Id"
+msgstr ""
+
+#: /views/uploads/view.ctp:9
+#: /views/users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: /views/uploads/view.ctp:14
+#: /views/users/view.ctp:54
+msgid "Title"
+msgstr ""
+
+#: /views/uploads/view.ctp:19
+#: /views/users/view.ctp:55
+msgid "Description"
+msgstr ""
+
+#: /views/uploads/view.ctp:24
+#: /views/users/view.ctp:56
+msgid "Filename"
+msgstr ""
+
+#: /views/uploads/view.ctp:29
+#: /views/users/view.ctp:57
+msgid "Filesize"
+msgstr ""
+
+#: /views/uploads/view.ctp:34
+#: /views/users/view.ctp:58
+msgid "Filemime"
+msgstr ""
+
+#: /views/uploads/view.ctp:39;78
+#: /views/users/view.ctp:24;59
+msgid "Created"
+msgstr ""
+
+#: /views/uploads/view.ctp:44;79
+#: /views/users/view.ctp:29;60
+msgid "Modified"
+msgstr ""
+
+#: /views/uploads/view.ctp:49;51
+msgid "Download"
+msgstr ""
+
+#: /views/uploads/view.ctp:62
+msgid "Delete Upload"
+msgstr ""
+
+#: /views/uploads/view.ctp:70
+msgid "Related Users"
+msgstr ""
+
+#: /views/uploads/view.ctp:75
+#: /views/users/view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: /views/uploads/view.ctp:76
+#: /views/users/view.ctp:14
+msgid "Password"
+msgstr ""
+
+#: /views/uploads/view.ctp:77
+#: /views/users/view.ctp:19
+msgid "Email"
+msgstr ""
+
+#: /views/users/add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: /views/users/edit.ctp:4
+#: /views/users/view.ctp:39
+msgid "Edit User"
+msgstr ""
+
+#: /views/users/index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: /views/users/login.ctp:4
+msgid "Login"
+msgstr ""
+
+#: /views/users/view.ctp:40
+msgid "Delete User"
+msgstr ""
+
+#: /views/users/view.ctp:48
+msgid "Related Uploads"
+msgstr ""
+
+#: /views/users/view.ctp:53
+msgid "User Id"
+msgstr ""
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
