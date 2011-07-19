@@ -1,0 +1,306 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-07-19 12:16+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: it_IT\n"
+"X-Source-Language: C\n"
+
+#: /controllers/urls_controller.php:14;36
+msgid "Invalid url"
+msgstr "Url non valida"
+
+#: /controllers/urls_controller.php:24;41
+msgid "The url has been saved"
+msgstr "L'url è stata salvata"
+
+#: /controllers/urls_controller.php:27;44
+msgid "The url could not be saved. Please, try again."
+msgstr "Impossibile salvare l'url. Provare nuovamente."
+
+#: /controllers/urls_controller.php:56
+msgid "Invalid id for url"
+msgstr "Id non valida per la url"
+
+#: /controllers/urls_controller.php:60
+msgid "Url deleted"
+msgstr "Url eliminata"
+
+#: /controllers/urls_controller.php:63
+msgid "Url was not deleted"
+msgstr "Impossibile eliminare la url"
+
+#: /controllers/users_controller.php:25;45
+msgid "Invalid user"
+msgstr "Utente non valido"
+
+#: /controllers/users_controller.php:35;50
+msgid "The user has been saved"
+msgstr "L'utente è stato salvato"
+
+#: /controllers/users_controller.php:38;53
+msgid "The user could not be saved. Please, try again."
+msgstr "Impossibile salvare l'utente. Provare nuovamente."
+
+#: /controllers/users_controller.php:63
+msgid "Invalid id for user"
+msgstr "Id non valido per l'utente"
+
+#: /controllers/users_controller.php:67
+msgid "User deleted"
+msgstr "Utente eliminato"
+
+#: /controllers/users_controller.php:70
+msgid "User was not deleted"
+msgstr "L'utente non è stato eliminato"
+
+#: /goodies/views/helpers/place.php:35
+#: /plugins/goodies/views/helpers/place.php:35
+msgid "Failed to generate placeholder type \"%s\"."
+msgstr "Impossibile generare il segnaposto di tipo \"%s\"."
+
+#: /goodies/views/helpers/thumboo.php:40
+#: /plugins/goodies/views/helpers/thumboo.php:40
+msgid ""
+"Your API Key was not provided, and is not readable at /config/thumboo.php"
+msgstr "Chiave API non fornita e non leggibile da /config/thumboo.php"
+
+#: /views/layouts/default.ctp:25
+msgid "CakePHP: the rapid development php framework:"
+msgstr "CakePHP: il framework php per lo sviluppo rapido:"
+
+#: /views/layouts/default.ctp:39;50
+msgid "CakePHP: the rapid development php framework"
+msgstr "CakePHP: il framework php per lo sviluppo rapido"
+
+#: /views/pages/home.ctp:12
+msgid "Your tmp directory is writable."
+msgstr "La directory tmp è scrivibile"
+
+#: /views/pages/home.ctp:16
+msgid "Your tmp directory is NOT writable."
+msgstr "La directory tmp NON è scrivibile."
+
+#: /views/pages/home.ctp:26
+msgid ""
+"The %s is being used for caching. To change the config edit "
+"APP/config/core.php "
+msgstr ""
+"%s usato per il caching. Per cambiare la configurazione modificare "
+"APP/config/core.php "
+
+#: /views/pages/home.ctp:30
+msgid ""
+"Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+"La cache NON è funzionante. Controllare le impostazioni in "
+"APP/config/core.php"
+
+#: /views/pages/home.ctp:40
+msgid "Your database configuration file is present."
+msgstr "Rilevato file di configurazione database."
+
+#: /views/pages/home.ctp:45
+msgid "Your database configuration file is NOT present."
+msgstr "Il file di configurazione del database è ASSENTE."
+
+#: /views/pages/home.ctp:47
+msgid "Rename config/database.php.default to config/database.php"
+msgstr "Rinominare config/database.php.default in config/database.php"
+
+#: /views/pages/home.ctp:64
+msgid "Cake is able to connect to the database."
+msgstr "Cake è riuscito a connettersi al database."
+
+#: /views/pages/home.ctp:68
+msgid "Cake is NOT able to connect to the database."
+msgstr "Cake NON è riuscito a connettersi al database."
+
+#: /views/pages/home.ctp:74
+msgid "Editing this Page"
+msgstr "Modifica della Pagina"
+
+#: /views/pages/home.ctp:77
+msgid ""
+"To change the content of this page, edit: %s\n"
+"\t\tTo change its layout, edit: %s\n"
+"\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+"Per cambiare il contenuto della pagina, modificare: %s\n"
+"\t\tPer cambiarne il layout, modificare: %s\n"
+"\t\tE' possibile aggiungere CSS per le vostre pagine in: %s"
+
+#: /views/urls/add.ctp:4
+msgid "Add Url"
+msgstr "Aggiungi Url"
+
+#: /views/urls/add.ctp:11 /views/urls/edit.ctp:12 /views/users/add.ctp:11
+#: /views/users/edit.ctp:12
+msgid "Submit"
+msgstr "Invia"
+
+#: /views/urls/add.ctp:14 /views/urls/edit.ctp:15 /views/urls/view.ctp:74
+#: /views/users/add.ctp:14 /views/users/edit.ctp:15 /views/urls/index.ctp:11;53
+#: /views/users/index.ctp:11;51 /views/users/view.ctp:37;58
+msgid "Actions"
+msgstr "Azioni"
+
+#: /views/urls/add.ctp:17 /views/urls/edit.ctp:19 /views/urls/view.ctp:78
+#: /views/users/add.ctp:18 /views/users/edit.ctp:20 /views/users/index.ctp:54
+#: /views/users/view.ctp:43
+msgid "List Urls"
+msgstr "Elenco Url"
+
+#: /views/urls/add.ctp:18 /views/urls/edit.ctp:20 /views/urls/index.ctp:56
+#: /views/urls/view.ctp:80 /views/users/add.ctp:17 /views/users/edit.ctp:19
+#: /views/users/view.ctp:41
+msgid "List Users"
+msgstr "Elenco Utenti"
+
+#: /views/urls/add.ctp:19 /views/urls/edit.ctp:21 /views/urls/index.ctp:57
+#: /views/urls/view.ctp:81 /views/users/index.ctp:53 /views/users/view.ctp:42
+msgid "New User"
+msgstr "Nuovo utente"
+
+#: /views/urls/edit.ctp:4 /views/urls/view.ctp:76
+msgid "Edit Url"
+msgstr "Modifica Url"
+
+#: /views/urls/edit.ctp:18 /views/urls/index.ctp:33 /views/users/edit.ctp:18
+#: /views/users/index.ctp:31 /views/users/view.ctp:78
+msgid "Delete"
+msgstr "Elimina"
+
+#: /views/urls/edit.ctp:18 /views/urls/index.ctp:33 /views/urls/view.ctp:77
+#: /views/users/edit.ctp:18 /views/users/index.ctp:31
+#: /views/users/view.ctp:40;78
+msgid "Are you sure you want to delete # %s?"
+msgstr "Si è sicuri di voler eliminare # %s?"
+
+#: /views/urls/index.ctp:2
+msgid "Urls"
+msgstr "Url"
+
+#: /views/urls/index.ctp:31 /views/users/index.ctp:29 /views/users/view.ctp:76
+msgid "View"
+msgstr "Vedi"
+
+#: /views/urls/index.ctp:32 /views/users/index.ctp:30 /views/users/view.ctp:77
+msgid "Edit"
+msgstr "Modifica"
+
+#: /views/urls/index.ctp:41 /views/users/index.ctp:39
+msgid ""
+"Page %page% of %pages%, showing %current% records out of %count% total, "
+"starting on record %start%, ending on %end%"
+msgstr ""
+"Pagina %page% di %pages%, sto mostrando %current% record su %count% totali, "
+"a partire dal record %start% fino a %end%"
+
+#: /views/urls/index.ctp:46 /views/users/index.ctp:44
+msgid "previous"
+msgstr "precedente"
+
+#: /views/urls/index.ctp:49 /views/users/index.ctp:47
+msgid "next"
+msgstr "successivo"
+
+#: /views/urls/index.ctp:55 /views/urls/view.ctp:79 /views/users/add.ctp:19
+#: /views/users/edit.ctp:21 /views/users/index.ctp:55
+#: /views/users/view.ctp:44;87
+msgid "New Url"
+msgstr "Nuova Url"
+
+#: /views/users/view.ctp:55 /views/urls/view.ctp:2;51
+msgid "Url"
+msgstr "Url"
+
+#: /views/urls/view.ctp:7
+msgid "Rate"
+msgstr "Vota"
+
+#: /views/urls/view.ctp:24
+msgid "Rating"
+msgstr "Voto"
+
+#: /views/urls/view.ctp:33 /views/users/view.ctp:4;52
+msgid "Id"
+msgstr "Id"
+
+#: /views/urls/view.ctp:38 /views/users/view.ctp:2
+msgid "User"
+msgstr "Utente"
+
+#: /views/urls/view.ctp:46 /views/users/view.ctp:54
+msgid "Name"
+msgstr "Nome"
+
+#: /views/urls/view.ctp:56 /views/users/view.ctp:24;56
+msgid "Created"
+msgstr "Creato"
+
+#: /views/urls/view.ctp:61 /views/users/view.ctp:29;57
+msgid "Modified"
+msgstr "Modificato"
+
+#: /views/urls/view.ctp:66
+msgid "Share"
+msgstr "Condividi"
+
+#: /views/urls/view.ctp:77
+msgid "Delete Url"
+msgstr "Elimina Url"
+
+#: /views/users/add.ctp:4
+msgid "Add User"
+msgstr "Aggiungi utente"
+
+#: /views/users/edit.ctp:4 /views/users/view.ctp:39
+msgid "Edit User"
+msgstr "Modifica utente"
+
+#: /views/users/index.ctp:2
+msgid "Users"
+msgstr "Utenti"
+
+#: /views/users/login.ctp:4;10
+msgid "Login"
+msgstr "Login"
+
+#: /views/users/view.ctp:9
+msgid "Username"
+msgstr "Username"
+
+#: /views/users/view.ctp:14
+msgid "Password"
+msgstr "Password"
+
+#: /views/users/view.ctp:19
+msgid "Email"
+msgstr "Email"
+
+#: /views/users/view.ctp:40
+msgid "Delete User"
+msgstr "Elimina utente"
+
+#: /views/users/view.ctp:48
+msgid "Related Urls"
+msgstr "Url collegate"
+
+#: /views/users/view.ctp:53
+msgid "User Id"
+msgstr "Id utente"
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr "Le impostazioni di debug non permettono l'accesso a questa url."
